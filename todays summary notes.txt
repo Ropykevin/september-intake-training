@@ -1,0 +1,21 @@
+	CSS Padding
+Padding is used to create space around an element's content, inside of any defined borders.
+	CSS Padding
+The CSS padding properties are used to generate space around an element's content, inside of any defined borders.
+With CSS, you have full control over the padding. There are properties for setting the padding for each side of an element (top, right, bottom, and left).
+	Padding - Individual Sides
+CSS has properties for specifying the padding for each side of an element:
+padding-top
+padding-right
+padding-bottom
+padding-left
+The position property specifies the type of positioning method used for an element (static, relative, fixed, absolute or sticky).
+	The position Property
+The position property specifies the type of positioning method used for an element.
+There are five different position values:
+static
+relative
+fixed
+absolute
+sticky
+Elements are then positioned using the top, bottom, left, and right properties. However, these properties will not work unless the position property is set first. They also work differently depending on the position value.
